@@ -1,0 +1,381 @@
+2014-04-22 14:45:41,741 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,742 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,742 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-04-22 14:45:41,742 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,743 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:42,302 INFO  [Log] Excel sheet opened 
+2014-04-22 14:45:42,302 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-04-22 14:45:59,257 INFO  [Log] New driver instantiated 
+2014-04-22 14:45:59,358 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 14:46:12,211 INFO  [Log] Web application launched successfully 
+2014-04-22 14:46:12,488 INFO  [Log] My Account link is found on the Home Page 
+2014-04-22 14:46:12,588 INFO  [Log] Click action is perfromed on My Account link 
+2014-04-22 14:46:17,885 INFO  [Log] Username text box is found on the Login Page 
+2014-04-22 14:46:17,956 INFO  [Log] testuser_1 is entered in UserName text box 
+2014-04-22 14:46:17,977 INFO  [Log] Password text box is found on the Login page 
+2014-04-22 14:46:18,039 INFO  [Log] Test@123 is entered in Password text box 
+2014-04-22 14:46:18,055 INFO  [Log] Submit button is found on the Login page 
+2014-04-22 14:46:18,715 INFO  [Log] Click action is performed on Submit button 
+2014-04-22 14:46:31,327 INFO  [Log] Log Out link is found on the Home Page 
+2014-04-22 14:46:31,574 INFO  [Log] Product category link is found under Top Navigation 
+2014-04-22 14:46:31,927 INFO  [Log] Accessories link is found under Product Category 
+2014-04-22 14:46:32,006 INFO  [Log] Click action is performed on the selected Product Type 
+2014-04-22 14:46:32,007 INFO  [Log] Product Type Accessories is selected from the Top menu 
+2014-04-22 14:46:37,285 INFO  [Log] Add to Cart button is found for Product 2 
+2014-04-22 14:46:37,458 INFO  [Log] Product 2 is selected from the Product listing page 
+2014-04-22 14:46:38,517 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2014-04-22 14:46:41,771 INFO  [Log] Product Name for purchased product is found on the Check Out Page 
+2014-04-22 14:46:41,824 INFO  [Log] Product Price for purchased product is found on the Check Out Page 
+2014-04-22 14:46:41,860 INFO  [Log] Continue button is found on the Check Out Page 
+2014-04-22 14:46:41,957 INFO  [Log] Email text box on Payment Details page is found. 
+2014-04-22 14:46:43,029 INFO  [Log] Email text box on Payment Details page is found. 
+2014-04-22 14:46:43,108 INFO  [Log] tooolsqa@gmail.com is entered as First Name on the Payment detail page 
+2014-04-22 14:46:43,126 INFO  [Log] First Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,201 INFO  [Log] First Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,356 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2014-04-22 14:46:43,366 INFO  [Log] Last Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,453 INFO  [Log] Last Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,560 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2014-04-22 14:46:43,568 INFO  [Log] Address text box on Payment Details page is found. 
+2014-04-22 14:46:43,756 INFO  [Log] Address text box on Payment Details page is found. 
+2014-04-22 14:46:44,151 INFO  [Log] 35, Marconi House, Walker Road is entered as Address on the Payment detail page 
+2014-04-22 14:46:44,162 INFO  [Log] City text box on Payment Details page is found. 
+2014-04-22 14:46:44,244 INFO  [Log] City text box on Payment Details page is found. 
+2014-04-22 14:46:44,393 INFO  [Log] Newcastle is entered as City on the Payment detail page 
+2014-04-22 14:46:44,509 INFO  [Log] Country dropdown on Payment Details page is found. 
+2014-04-22 14:46:44,570 INFO  [Log] United Kingdom is Selected as Country on the Payment detail page 
+2014-04-22 14:46:44,633 INFO  [Log] Phone text box on Payment Details page is found. 
+2014-04-22 14:46:44,740 INFO  [Log] Phone text box on Payment Details page is found. 
+2014-04-22 14:46:44,868 INFO  [Log] 07777777777 is entered as Phone on the Payment detail page 
+2014-04-22 14:46:44,876 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2014-04-22 14:46:44,890 INFO  [Log] Purchase button on Payment Details page is found. 
+2014-04-22 14:46:47,948 INFO  [Log] Click action is performed on Purchase button on the Payment detail page 
+2014-04-22 14:46:47,959 INFO  [Log] Product name is found on the Confirmation Page 
+2014-04-22 14:46:47,985 INFO  [Log] Product price is found on the Confirmation Page 
+2014-04-22 14:46:48,185 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-04-22 14:46:48,185 INFO  [Log] X 
+2014-04-22 14:46:48,185 INFO  [Log] X 
+2014-04-22 14:46:48,186 INFO  [Log] X 
+2014-04-22 14:46:48,186 INFO  [Log] X 
+2014-04-22 17:32:40,212 INFO  [Log] New driver instantiated 
+2014-04-22 17:32:40,227 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:32:58,881 INFO  [Log] Web application launched 
+2014-04-22 17:32:59,000 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:35:15,781 INFO  [Log] New driver instantiated 
+2014-04-22 17:35:15,799 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:35:33,430 INFO  [Log] Web application launched 
+2014-04-22 17:35:33,539 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:47:58,080 INFO  [Log] New driver instantiated 
+2014-04-22 17:47:58,101 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:48:15,116 INFO  [Log] Web application launched 
+2014-04-22 17:48:36,220 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:48:37,787 INFO  [Log] Username entered in the Username text box 
+2014-04-22 17:48:37,877 INFO  [Log] Password entered in the Password text box 
+2014-04-22 17:48:38,576 INFO  [Log] Click action performed on Submit button 
+2014-04-22 17:48:45,875 INFO  [Log] Click action performed on Log out link 
+2014-04-22 17:48:46,110 INFO  [Log] Browser closed 
+2017-06-23 15:14:21,696 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:14:21,697 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:14:21,697 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 15:14:21,697 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:14:21,697 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:23:39,583 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:23:39,583 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:23:39,583 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 15:23:39,583 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:23:39,583 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:23:40,085 INFO  [Log] Excel sheet opened 
+2017-06-23 15:23:40,086 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-23 15:23:44,863 INFO  [Log] New driver instantiated 
+2017-06-23 15:23:44,863 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-23 15:23:52,680 INFO  [Log] Web application launched successfully 
+2017-06-23 15:23:52,828 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-23 15:23:52,967 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Tried to run command without establishing a connection
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '172.18.103.236', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.ppA03yjCCBbZ, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=6260.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 5fecdf49-7e62-4f74-86bd-befdf3b2c564 
+2017-06-23 15:23:52,969 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-23 15:23:52,969 INFO  [Log] X 
+2017-06-23 15:23:52,969 INFO  [Log] X 
+2017-06-23 15:23:52,969 INFO  [Log] X 
+2017-06-23 15:23:52,969 INFO  [Log] X 
+2017-06-23 15:56:11,494 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:56:11,495 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:56:11,495 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 15:56:11,495 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:56:11,495 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:56:11,968 INFO  [Log] Excel sheet opened 
+2017-06-23 15:56:11,968 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-23 15:56:16,680 INFO  [Log] New driver instantiated 
+2017-06-23 15:56:16,680 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-23 15:56:24,428 INFO  [Log] Web application launched successfully 
+2017-06-23 15:56:24,618 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-23 15:56:24,751 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Tried to run command without establishing a connection
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '172.18.103.236', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.yPzYFNCjVf5N, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=10208.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 6cf431a1-9fb8-4d4a-b199-b8fcae333854 
+2017-06-23 15:56:24,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-23 15:56:24,754 INFO  [Log] X 
+2017-06-23 15:56:24,755 INFO  [Log] X 
+2017-06-23 15:56:24,755 INFO  [Log] X 
+2017-06-23 15:56:24,755 INFO  [Log] X 
+2017-06-23 15:58:06,983 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:58:06,984 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:58:06,984 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 15:58:06,984 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:58:06,984 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:58:07,501 INFO  [Log] Excel sheet opened 
+2017-06-23 15:58:07,501 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-23 15:58:12,230 INFO  [Log] New driver instantiated 
+2017-06-23 15:58:12,230 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-23 15:58:19,579 INFO  [Log] Web application launched successfully 
+2017-06-23 15:58:19,665 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-23 15:58:19,879 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '172.18.103.236', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.Oaqee4hmuSHX, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=10044.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 12fc38f6-979f-4936-9a19-c11f334d21f6
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-06-23 15:58:19,883 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-23 15:58:19,883 INFO  [Log] X 
+2017-06-23 15:58:19,883 INFO  [Log] X 
+2017-06-23 15:58:19,883 INFO  [Log] X 
+2017-06-23 15:58:19,883 INFO  [Log] X 
+2017-06-23 15:58:20,058 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:58:20,058 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:58:20,058 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 15:58:20,058 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:58:20,058 INFO  [Log] **************************************************************************************** 
+2017-06-23 15:58:20,099 INFO  [Log] Excel sheet opened 
+2017-06-23 15:58:20,099 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-23 15:58:24,032 INFO  [Log] New driver instantiated 
+2017-06-23 15:58:24,032 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-23 15:58:31,059 INFO  [Log] Web application launched successfully 
+2017-06-23 15:58:31,094 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-23 15:58:31,248 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '172.18.103.236', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.mlccgvBrnc6o, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=10976.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 26526653-be0d-4163-a618-c17c096e470c
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-06-23 15:58:31,251 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-23 15:58:31,251 INFO  [Log] X 
+2017-06-23 15:58:31,251 INFO  [Log] X 
+2017-06-23 15:58:31,251 INFO  [Log] X 
+2017-06-23 15:58:31,251 INFO  [Log] X 
+2017-06-23 21:05:48,595 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:05:48,595 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:05:48,595 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 21:05:48,595 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:05:48,595 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:05:49,240 INFO  [Log] Excel sheet opened 
+2017-06-23 21:05:49,241 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-23 21:05:54,101 INFO  [Log] New driver instantiated 
+2017-06-23 21:05:54,101 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-23 21:06:02,828 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to decode response from marionette
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.I5kO5TTiwm4h, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=6928.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: f8d1c9d6-31ff-4f80-9139-c1c9e269457d 
+2017-06-23 21:06:02,847 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-23 21:06:02,982 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Tried to run command without establishing a connection
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.I5kO5TTiwm4h, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=6928.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: f8d1c9d6-31ff-4f80-9139-c1c9e269457d 
+2017-06-23 21:06:02,986 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-23 21:06:02,986 INFO  [Log] X 
+2017-06-23 21:06:02,987 INFO  [Log] X 
+2017-06-23 21:06:02,987 INFO  [Log] X 
+2017-06-23 21:06:02,987 INFO  [Log] X 
+2017-06-23 21:06:03,011 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:06:03,011 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:06:03,011 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 21:06:03,011 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:06:03,011 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:06:03,065 INFO  [Log] Excel sheet opened 
+2017-06-23 21:06:03,065 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-23 21:17:00,190 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:17:00,191 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:17:00,191 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 21:17:00,191 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:17:00,191 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:17:00,687 INFO  [Log] Excel sheet opened 
+2017-06-23 21:17:00,687 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-23 21:17:05,399 INFO  [Log] New driver instantiated 
+2017-06-23 21:17:05,399 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-23 21:17:31,794 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=netTimeout&u=https%3A//qt3.valic.com/GetStarted/OnlineEnrollment/AccessCodeEntry&c=UTF-8&f=regular&d=The%20server%20at%20qt3.valic.com%20is%20taking%20too%20long%20to%20respond.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.R5gkZ80FTdh9, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=7620.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 7e32f667-d5c0-415b-881d-abfc71981f78 
+2017-06-23 21:17:31,819 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-23 21:17:32,012 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.R5gkZ80FTdh9, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=7620.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 7e32f667-d5c0-415b-881d-abfc71981f78
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-06-23 21:17:32,017 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-23 21:17:32,017 INFO  [Log] X 
+2017-06-23 21:17:32,017 INFO  [Log] X 
+2017-06-23 21:17:32,017 INFO  [Log] X 
+2017-06-23 21:17:32,017 INFO  [Log] X 
+2017-06-23 21:17:32,155 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:17:32,155 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:17:32,155 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-23 21:17:32,155 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:17:32,155 INFO  [Log] **************************************************************************************** 
+2017-06-23 21:17:32,209 INFO  [Log] Excel sheet opened 
+2017-06-23 21:17:32,209 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-23 21:17:35,948 INFO  [Log] New driver instantiated 
+2017-06-23 21:17:35,948 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-23 21:17:59,561 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=netTimeout&u=https%3A//qt3.valic.com/GetStarted/OnlineEnrollment/AccessCodeEntry&c=UTF-8&f=regular&d=The%20server%20at%20qt3.valic.com%20is%20taking%20too%20long%20to%20respond.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.6q8AO7lgQdHc, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=8456.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 3a5cd075-d71e-448d-b273-b294ac8a9d76 
+2017-06-23 21:17:59,597 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-23 21:17:59,734 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.6q8AO7lgQdHc, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=8456.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 3a5cd075-d71e-448d-b273-b294ac8a9d76
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-06-23 21:17:59,737 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-23 21:17:59,737 INFO  [Log] X 
+2017-06-23 21:17:59,737 INFO  [Log] X 
+2017-06-23 21:17:59,737 INFO  [Log] X 
+2017-06-23 21:17:59,737 INFO  [Log] X 
+2017-06-24 23:11:10,382 INFO  [Log] **************************************************************************************** 
+2017-06-24 23:11:10,383 INFO  [Log] **************************************************************************************** 
+2017-06-24 23:11:10,383 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-24 23:11:10,383 INFO  [Log] **************************************************************************************** 
+2017-06-24 23:11:10,383 INFO  [Log] **************************************************************************************** 
+2017-06-24 23:11:10,963 INFO  [Log] Excel sheet opened 
+2017-06-24 23:11:10,963 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-24 23:11:15,782 INFO  [Log] New driver instantiated 
+2017-06-24 23:11:15,782 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-24 23:11:18,477 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=dnsNotFound&u=https%3A//qt3.valic.com/GetStarted/OnlineEnrollment/AccessCodeEntry&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20server%20at%20qt3.valic.com.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.IzbgUTgemrUG, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=8760.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 68ce6b3d-9c68-48b0-9c7f-dbea8e1ec228 
+2017-06-24 23:11:18,496 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-24 23:11:18,686 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.IzbgUTgemrUG, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=8760.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 68ce6b3d-9c68-48b0-9c7f-dbea8e1ec228
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-06-24 23:11:18,692 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-24 23:11:18,692 INFO  [Log] X 
+2017-06-24 23:11:18,692 INFO  [Log] X 
+2017-06-24 23:11:18,692 INFO  [Log] X 
+2017-06-24 23:11:18,692 INFO  [Log] X 
+2017-06-24 23:31:13,960 INFO  [Log] **************************************************************************************** 
+2017-06-24 23:31:13,961 INFO  [Log] **************************************************************************************** 
+2017-06-24 23:31:13,961 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-24 23:31:13,961 INFO  [Log] **************************************************************************************** 
+2017-06-24 23:31:13,961 INFO  [Log] **************************************************************************************** 
+2017-06-24 23:31:14,558 INFO  [Log] Excel sheet opened 
+2017-06-24 23:31:14,558 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-24 23:31:19,401 INFO  [Log] New driver instantiated 
+2017-06-24 23:31:19,401 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-24 23:31:22,004 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=dnsNotFound&u=https%3A//qt3.valic.com/GetStarted/OnlineEnrollment/AccessCodeEntry&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20server%20at%20qt3.valic.com.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.IdDH5Hwl60Yf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=1836.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 86ce4c8a-5005-41cc-973e-2fc6371e605a 
+2017-06-24 23:31:22,025 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-24 23:31:22,256 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.IdDH5Hwl60Yf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=1836.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 86ce4c8a-5005-41cc-973e-2fc6371e605a
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-06-24 23:31:22,261 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-24 23:31:22,262 INFO  [Log] X 
+2017-06-24 23:31:22,262 INFO  [Log] X 
+2017-06-24 23:31:22,262 INFO  [Log] X 
+2017-06-24 23:31:22,262 INFO  [Log] X 
+2017-06-25 12:13:46,745 INFO  [Log] **************************************************************************************** 
+2017-06-25 12:13:46,746 INFO  [Log] **************************************************************************************** 
+2017-06-25 12:13:46,746 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-25 12:13:46,746 INFO  [Log] **************************************************************************************** 
+2017-06-25 12:13:46,746 INFO  [Log] **************************************************************************************** 
+2017-06-25 12:13:47,291 INFO  [Log] Excel sheet opened 
+2017-06-25 12:13:47,291 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-25 12:13:52,165 INFO  [Log] New driver instantiated 
+2017-06-25 12:13:52,165 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-25 12:13:54,823 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=dnsNotFound&u=https%3A//qt3.valic.com/GetStarted/OnlineEnrollment/AccessCodeEntry&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20server%20at%20qt3.valic.com.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.nyJZeyb1o3lf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=7708.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: da66b372-f1d8-4875-8dac-be4b73072aa2 
+2017-06-25 12:13:54,841 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-25 12:13:55,062 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.nyJZeyb1o3lf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=7708.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: da66b372-f1d8-4875-8dac-be4b73072aa2
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-06-25 12:13:55,068 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-25 12:13:55,068 INFO  [Log] X 
+2017-06-25 12:13:55,068 INFO  [Log] X 
+2017-06-25 12:13:55,068 INFO  [Log] X 
+2017-06-25 12:13:55,068 INFO  [Log] X 
+2017-06-25 15:16:41,786 INFO  [Log] **************************************************************************************** 
+2017-06-25 15:16:41,787 INFO  [Log] **************************************************************************************** 
+2017-06-25 15:16:41,787 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-25 15:16:41,787 INFO  [Log] **************************************************************************************** 
+2017-06-25 15:16:41,787 INFO  [Log] **************************************************************************************** 
+2017-06-25 15:16:42,432 INFO  [Log] Excel sheet opened 
+2017-06-25 15:16:42,432 INFO  [Log] Total number of Row used return as < 3 >. 
+2017-06-25 15:16:47,448 INFO  [Log] New driver instantiated 
+2017-06-25 15:16:47,448 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-25 15:16:48,628 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Reached error page: about:neterror?e=connectionFailure&u=https%3A//qt3.valic.com/GetStarted/OnlineEnrollment/AccessCodeEntry&c=UTF-8&f=regular&captive=true&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20qt3.valic.com.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.pN0WLtdlef6p, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=8700.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: cebdefe4-c461-4e58-b234-10b4c2b6eeec 
+2017-06-25 15:16:48,651 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-25 15:16:48,944 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USV7LFM61G12', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pghosh\AppData\Local\Temp\rust_mozprofile.pN0WLtdlef6p, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0, platformVersion=6.1, moz:processID=8700.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: cebdefe4-c461-4e58-b234-10b4c2b6eeec
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-06-25 15:16:48,955 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-25 15:16:48,955 INFO  [Log] X 
+2017-06-25 15:16:48,955 INFO  [Log] X 
+2017-06-25 15:16:48,955 INFO  [Log] X 
+2017-06-25 15:16:48,955 INFO  [Log] X 
